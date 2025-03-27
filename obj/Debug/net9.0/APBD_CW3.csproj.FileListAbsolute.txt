@@ -1,0 +1,14 @@
+C:\Users\waxes\Desktop\Studia\APBD\APBD_CW3\APBD_CW3\bin\Debug\net9.0\APBD_CW3.exe
+C:\Users\waxes\Desktop\Studia\APBD\APBD_CW3\APBD_CW3\bin\Debug\net9.0\APBD_CW3.deps.json
+C:\Users\waxes\Desktop\Studia\APBD\APBD_CW3\APBD_CW3\bin\Debug\net9.0\APBD_CW3.runtimeconfig.json
+C:\Users\waxes\Desktop\Studia\APBD\APBD_CW3\APBD_CW3\bin\Debug\net9.0\APBD_CW3.dll
+C:\Users\waxes\Desktop\Studia\APBD\APBD_CW3\APBD_CW3\bin\Debug\net9.0\APBD_CW3.pdb
+C:\Users\waxes\Desktop\Studia\APBD\APBD_CW3\APBD_CW3\obj\Debug\net9.0\APBD_CW3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\waxes\Desktop\Studia\APBD\APBD_CW3\APBD_CW3\obj\Debug\net9.0\APBD_CW3.AssemblyInfoInputs.cache
+C:\Users\waxes\Desktop\Studia\APBD\APBD_CW3\APBD_CW3\obj\Debug\net9.0\APBD_CW3.AssemblyInfo.cs
+C:\Users\waxes\Desktop\Studia\APBD\APBD_CW3\APBD_CW3\obj\Debug\net9.0\APBD_CW3.csproj.CoreCompileInputs.cache
+C:\Users\waxes\Desktop\Studia\APBD\APBD_CW3\APBD_CW3\obj\Debug\net9.0\APBD_CW3.dll
+C:\Users\waxes\Desktop\Studia\APBD\APBD_CW3\APBD_CW3\obj\Debug\net9.0\refint\APBD_CW3.dll
+C:\Users\waxes\Desktop\Studia\APBD\APBD_CW3\APBD_CW3\obj\Debug\net9.0\APBD_CW3.pdb
+C:\Users\waxes\Desktop\Studia\APBD\APBD_CW3\APBD_CW3\obj\Debug\net9.0\APBD_CW3.genruntimeconfig.cache
+C:\Users\waxes\Desktop\Studia\APBD\APBD_CW3\APBD_CW3\obj\Debug\net9.0\ref\APBD_CW3.dll
